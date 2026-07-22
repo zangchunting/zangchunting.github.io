@@ -1,0 +1,11 @@
+title: Chunting Zang
+description: Researcher at Alibaba Group
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+email: zangchunting@gmail.com
+github_username: zangchunting
+
+markdown: kramdown
